@@ -55,7 +55,7 @@ export default function HeroSection() {
             animation: 'fadeInUp 0.5s cubic-bezier(0,0,0.2,1) 0.6s both',
           }}
         >
-          مرجع رسمی انتشار اطلاعیه‌ها، اخبار و رویدادهای سازمانی
+          مرجع انتشار اطلاعیه‌ها، اخبار و رویدادهای سازمانی
         </p>
 
         {/* CTA Button */}
